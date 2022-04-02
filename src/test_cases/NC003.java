@@ -4,4 +4,6 @@ public class NC003 {
 
     //first line
 
+    // second line
+
 }
